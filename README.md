@@ -29,14 +29,16 @@ started date   03.03.2024
     - Network Services:  DNS (Domain Name System), DHCP (Dynamic Host Configuration Protocol)
 
  ### Resources
-1. [How does the Internet Work?]([https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md](https://cs.fyi/guide/how-does-internet-work)https://cs.fyi/guide/how-does-internet-work)
-2.[The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
-3. [Introduction to Internet](https://roadmap.sh/guides/what-is-internet)
-4. https://www.geeksforgeeks.org/introduction-to-programming-languages/
-5. https://medium.com/@donotapply/client-side-vs-server-side-whats-the-difference-a933341cd60e
-6. https://www.youtube.com/watch?v=DrI2lUXL1no
-7. https://egghead.io/lessons/chrome-devtools-analyze-http-requests-and-responses-with-chrome-devtools
-8. https://dev.to/annoh_karlgusta/how-to-inspect-http-requests-and-responses-3nea 
+ 
+  1. https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md](https://cs.fyi/guide/how-does-internet-        work)https://cs.fyi/guide/how-does-internet-work
+  2. https://www.vox.com/2014/6/16/18076282/the-internet
+  3. https://roadmap.sh/guides/what-is-internet
+  4. https://www.geeksforgeeks.org/introduction-to-programming-languages/
+  5. https://medium.com/@donotapply/client-side-vs-server-side-whats-the-difference-a933341cd60e
+  6. https://www.youtube.com/watch?v=DrI2lUXL1no
+  7. https://egghead.io/lessons/chrome-devtools-analyze-http-requests-and-responses-with-chrome-devtools
+  8. https://dev.to/annoh_karlgusta/how-to-inspect-http-requests-and-responses-3nea
+
     
 
 
