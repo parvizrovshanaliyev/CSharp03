@@ -1,17 +1,18 @@
-Certainly! Here's a collapsed version:
 
-<details>
-<summary><strong>CSharp03 Private Class</strong></summary>
 
+#CSharp03 Private Class
+    
 **Started Date:** 03.03.2024
 
 ## Student List
 - [Saida Suleymanova](https://github.com/fidan-xanlarovaa/PragmatechCsharpProject)
 
+<details>
+<summary><strong>Week01-Day01 03.03.2024</strong></summary>
 ## Week01-Day01 03.03.2024
-
-### Topics
+    ### Topics
 - Computer Networking Basics: Understanding Network Components
+</details>
 
 ## Week02-Day01 10.03.2024
 
@@ -51,4 +52,4 @@ Certainly! Here's a collapsed version:
 6. [Video: Computer Networking Basics](https://www.youtube.com/watch?v=DrI2lUXL1no)
 7. [Analyze HTTP Requests and Responses with Chrome DevTools](https://egghead.io/lessons/chrome-devtools-analyze-http-requests-and-responses-with-chrome-devtools)
 8. [How to Inspect HTTP Requests and Responses](https://dev.to/annoh_karlgusta/how-to-inspect-http-requests-and-responses-3nea)
-</details>
+
