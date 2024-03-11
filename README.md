@@ -1,7 +1,5 @@
+# CSharp03 Private Class
 
-
-#CSharp03 Private Class
-    
 **Started Date:** 03.03.2024
 
 ## Student List
@@ -9,8 +7,8 @@
 
 <details>
 <summary><strong>Week01-Day01 03.03.2024</strong></summary>
-## Week01-Day01 03.03.2024
-    ### Topics
+
+### Topics
 - Computer Networking Basics: Understanding Network Components
 </details>
 
@@ -52,4 +50,3 @@
 6. [Video: Computer Networking Basics](https://www.youtube.com/watch?v=DrI2lUXL1no)
 7. [Analyze HTTP Requests and Responses with Chrome DevTools](https://egghead.io/lessons/chrome-devtools-analyze-http-requests-and-responses-with-chrome-devtools)
 8. [How to Inspect HTTP Requests and Responses](https://dev.to/annoh_karlgusta/how-to-inspect-http-requests-and-responses-3nea)
-
