@@ -30,7 +30,7 @@ started date   03.03.2024
 
  ### Resources
  
-  1. https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md](https://cs.fyi/guide/how-does-internet-        work)https://cs.fyi/guide/how-does-internet-work
+  1. https://cs.fyi/guide/how-does-internet-work
   2. https://www.vox.com/2014/6/16/18076282/the-internet
   3. https://roadmap.sh/guides/what-is-internet
   4. https://www.geeksforgeeks.org/introduction-to-programming-languages/
