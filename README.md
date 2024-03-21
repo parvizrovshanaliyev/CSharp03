@@ -60,6 +60,7 @@
 
 <details>
 <summary><strong>Week03-Day01 17.03.2024</strong></summary>
+
 ## Week03-Day01 17.03.2024
 
 ### Topics
