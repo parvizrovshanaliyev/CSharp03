@@ -74,3 +74,28 @@
 3. [SSD vs HDD: Which is Right for You?](https://www.crucial.com/articles/about-ssd/ssd-vs-hdd) - Crucial's article compares Solid State Drives (SSD) and Hard Disk Drives (HDD), highlighting their differences, advantages, and use cases.
 4. [Local Storage vs Session Storage vs Cookie](https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie) - XenonStack offers insights into different storage mechanisms in web development, including local storage, session storage, and cookies, and their respective use cases.
 </details>
+
+
+<details>
+<summary><strong>Week04-Day01 23.03.2024</strong></summary>
+
+## Week04-Day01 23.03.2024
+
+### Topics
+1. Introduction to Programming Languages
+2. A History of Programming Languages
+3. Why Study Programming Languages?
+4. Classifications of Programming Languages
+5. Compilation vs. Interpretation
+6. Implementation Strategies
+7. Programming Environment Tools
+8. An Overview of Compilation
+
+### Resources
+
+1. [Introduction to Programming Languages - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-programming-languages/)
+2. [Introduction to Programming Languages (PDF) - Stony Brook University](https://www3.cs.stonybrook.edu/~pfodor/courses/CSE260/_L01_Introduction_Programming_Languages.pdf)
+3. [Introduction to Computer Programming Languages - LinkedIn Article](https://www.linkedin.com/pulse/introduction-computer-programming-languages-chukwuebuka-ejie-vi6mf/)
+4. [Programming Language Overview - JavaTpoint](https://www.javatpoint.com/programming-language)
+
+</details>
