@@ -57,6 +57,9 @@
 8. [How to Inspect HTTP Requests and Responses](https://dev.to/annoh_karlgusta/how-to-inspect-http-requests-and-responses-3nea)
 </details>
 
+
+<details>
+<summary><strong>Week03-Day01 17.03.2024</strong></summary>
 ## Week03-Day01 17.03.2024
 
 ### Topics
