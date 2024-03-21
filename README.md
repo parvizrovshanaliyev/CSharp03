@@ -56,3 +56,17 @@
 7. [Analyze HTTP Requests and Responses with Chrome DevTools](https://egghead.io/lessons/chrome-devtools-analyze-http-requests-and-responses-with-chrome-devtools)
 8. [How to Inspect HTTP Requests and Responses](https://dev.to/annoh_karlgusta/how-to-inspect-http-requests-and-responses-3nea)
 </details>
+
+## Week03-Day01 17.03.2024
+
+### Topics
+1. Difference Between Hardware and Software
+2. What is an Operating System (OS)?
+
+### Resources
+
+1. [Difference Between Hardware and Software](https://www.simplilearn.com/difference-between-hardware-software-article) - This article on Simplilearn discusses the fundamental distinctions between hardware and software in computing.
+2. [What is an Operating System (OS)?](https://www.techtarget.com/whatis/definition/operating-system-OS) - TechTarget provides a comprehensive definition and explanation of operating systems, a crucial component of computing environments.
+3. [SSD vs HDD: Which is Right for You?](https://www.crucial.com/articles/about-ssd/ssd-vs-hdd) - Crucial's article compares Solid State Drives (SSD) and Hard Disk Drives (HDD), highlighting their differences, advantages, and use cases.
+4. [Local Storage vs Session Storage vs Cookie](https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie) - XenonStack offers insights into different storage mechanisms in web development, including local storage, session storage, and cookies, and their respective use cases.
+</details>
