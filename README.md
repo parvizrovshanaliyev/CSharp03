@@ -3,7 +3,7 @@
 **Started Date:** 03.03.2024
 
 ## Student List
-- [Saida Suleymanova](https://github.com/fidan-xanlarovaa/PragmatechCsharpProject)
+- [Saida Suleymanli](https://github.com/SaidaSuleymanli/csharp-03-homework)
 
 ## Lessons
 
