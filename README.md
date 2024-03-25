@@ -101,7 +101,7 @@
 </details>
 
 <details>
-<summary><strong>Week04-Day01 23.03.2024</strong></summary>
+<summary><strong>Week04-Day02 24.03.2024</strong></summary>
 
 ## Week04-Day02 24.03.2024
 
