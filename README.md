@@ -109,9 +109,10 @@
 1. Introducing C# and .NET
 
 ### Resources
-1. [GeeksforGeeks - C# Programming Language](https://www.geeksforgeeks.org/csharp-programming-language/?ref=lbp)
-2. [Dot Net Tutorials - Introduction to C# Language](https://dotnettutorials.net/lesson/introduction-to-csharp-language/)
-3. [Medium - What is C# and .NET](https://medium.com/@codebob75/what-is-c-and-net-41addd28b173)
-4. [Medium - What is .NET](https://medium.com/@benkaddourmed54/what-is-net-202790532234)
+1. [C# Get Started](https://www.w3schools.com/cs/cs_getstarted.php)
+2. [GeeksforGeeks - C# Programming Language](https://www.geeksforgeeks.org/csharp-programming-language/?ref=lbp)
+3. [Dot Net Tutorials - Introduction to C# Language](https://dotnettutorials.net/lesson/introduction-to-csharp-language/)
+4. [Medium - What is C# and .NET](https://medium.com/@codebob75/what-is-c-and-net-41addd28b173)
+5. [Medium - What is .NET](https://medium.com/@benkaddourmed54/what-is-net-202790532234)
 
 </details>
