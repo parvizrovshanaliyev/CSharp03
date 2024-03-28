@@ -107,6 +107,7 @@
 
 ### Topics
 1. Introducing C# and .NET
+2. What is Visual Studio?
 
 ### Resources
 1. [C# Get Started](https://www.w3schools.com/cs/cs_getstarted.php)
