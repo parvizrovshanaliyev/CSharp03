@@ -115,5 +115,6 @@
 4. [Medium - What is C# and .NET](https://medium.com/@codebob75/what-is-c-and-net-41addd28b173)
 5. [Medium - What is .NET](https://medium.com/@benkaddourmed54/what-is-net-202790532234)
 6. [Introduction-to-visual-studio](https://www.geeksforgeeks.org/introduction-to-visual-studio/)
+7. [What is Visual Studio?](https://learn.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2022)
 
 </details>
