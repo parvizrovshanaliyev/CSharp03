@@ -8,10 +8,7 @@
             int number = 2;
 
 
-            if (number == 1 || number ==2)
-            {
-                Console.WriteLine(text);
-            }
+           Console.WriteLine(text);
         }
     }
 }
