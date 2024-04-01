@@ -120,3 +120,36 @@
 8. [Introduction to Microsoft Visual Studio - tutorial](https://www.functionx.com/csharp10/Lesson01.htm)
 
 </details>
+
+
+<details>
+<summary><strong>Week05-Day01 30.03.2024</strong></summary>
+
+## Week05-Day01 24.03.2024
+
+### Topics
+1. What is the difference between C# and .Net ?
+
+### Resources
+1. [What is the difference between C# and .Net ?](https://medium.com/@codebob75/what-is-c-and-net-41addd28b173)
+
+</details>
+
+<details>
+<summary><strong>Week05-Day02 31.03.2024</strong></summary>
+
+## Week05-Day02 24.03.2024
+
+### Topics
+1. What is Git? How to use GitHub?
+
+### Resources
+1. [What is Git? How to use GitHub?](https://medium.com/@parvizrovshanaliyev/git-n%C9%99dir-38604f516522)
+
+
+### Homework
+  1. Why are there options for different operating systems when installing any program on a laptop,
+   and we install Windows, Linux or MacOS setups according to these options?
+  2. Clone your own home-work repository to your laptop and try creating and pushing a console application.
+
+</details>
