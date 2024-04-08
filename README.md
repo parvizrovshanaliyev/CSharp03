@@ -173,8 +173,8 @@
 1. [C# Output](https://www.w3schools.com/cs/cs_output.php)
 2. [C# User Input](https://www.w3schools.com/cs/cs_user_input.php)
 3. C# Variables
-        - https://www.w3schools.com/cs/cs_variables.php)
-        - https://www.tutorialsteacher.com/csharp/csharp-variable) 
+        - https://www.w3schools.com/cs/cs_variables.php
+        - https://www.tutorialsteacher.com/csharp/csharp-variable
 4. [C# Data Types](https://www.w3schools.com/cs/cs_data_types.php)
 
 
