@@ -7,6 +7,8 @@
 
 ## Lessons
 
+## Month01
+
 <details>
 <summary><strong>Week01-Day01 03.03.2024</strong></summary>
 
@@ -151,5 +153,32 @@
   1. Why are there options for different operating systems when installing any program on a laptop,
    and we install Windows, Linux or MacOS setups according to these options?
   2. Clone your own home-work repository to your laptop and try creating and pushing a console application.
+
+</details>
+
+
+<details>
+<summary><strong>Week06-Day01 07.04.2024</strong></summary>
+
+## Week06-Day01 07.04.2024
+
+### Topics
+1. Simple Read And Write With Console Application For Beginners
+   - C# Output
+   - C# User Input
+2. C# Variables
+3. C# Data Types
+
+### Resources
+1. [C# Output](https://www.w3schools.com/cs/cs_output.php)
+2. [C# User Input](https://www.w3schools.com/cs/cs_user_input.php)
+3. [C# Variables](https://www.w3schools.com/cs/cs_variables.php)
+4. [C# Data Types](https://www.w3schools.com/cs/cs_data_types.php)
+
+
+### Homework
+  1. print the sum of two numbers
+  2. Print the sum of two numbers received from the user.
+  3. Ask the user step by step for his/her first name, last name, father's name and phone number and print it as a single line.
 
 </details>
