@@ -52,6 +52,28 @@
             string fullname1 = name + " " + surname;
 
             Console.WriteLine("fullname1 :" + fullname1);
+
+
+
+            // Print the sum of two numbers received from the user.
+
+            Console.Write("enter number1: ");
+
+            string number1Str = Console.ReadLine();
+
+            Console.Write("enter number2 :");
+
+            string number2Str= Console.ReadLine();
+
+            Console.WriteLine("number1 :" + number1Str);
+            Console.WriteLine("number2 :" + number2Str);
+
+
+            //int sum1 = number1Str + number2Str;
+            
+            int sum1 = Convert.ToInt32(number1Str) + Convert.ToInt32(number2Str);
+
+            Console.WriteLine("sum :" + sum1);
         }
     }
 }
