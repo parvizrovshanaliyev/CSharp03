@@ -7,6 +7,8 @@
 
 ## Lessons
 
+## Month01
+
 <details>
 <summary><strong>Week01-Day01 03.03.2024</strong></summary>
 
@@ -118,5 +120,67 @@
 6. [Introduction-to-visual-studio](https://www.geeksforgeeks.org/introduction-to-visual-studio/)
 7. [What is Visual Studio?](https://learn.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2022)
 8. [Introduction to Microsoft Visual Studio - tutorial](https://www.functionx.com/csharp10/Lesson01.htm)
+
+</details>
+
+
+<details>
+<summary><strong>Week05-Day01 30.03.2024</strong></summary>
+
+## Week05-Day01 24.03.2024
+
+### Topics
+1. What is the difference between C# and .Net ?
+
+### Resources
+1. [What is the difference between C# and .Net ?](https://medium.com/@codebob75/what-is-c-and-net-41addd28b173)
+
+</details>
+
+<details>
+<summary><strong>Week05-Day02 31.03.2024</strong></summary>
+
+## Week05-Day02 24.03.2024
+
+### Topics
+1. What is Git? How to use GitHub?
+
+### Resources
+1. [What is Git? How to use GitHub?](https://medium.com/@parvizrovshanaliyev/git-n%C9%99dir-38604f516522)
+
+
+### Homework
+  1. Why are there options for different operating systems when installing any program on a laptop,
+   and we install Windows, Linux or MacOS setups according to these options?
+  2. Clone your own home-work repository to your laptop and try creating and pushing a console application.
+
+</details>
+
+
+<details>
+<summary><strong>Week06-Day01 07.04.2024</strong></summary>
+
+## Week06-Day01 07.04.2024
+
+### Topics
+1. Simple Read And Write With Console Application For Beginners
+   - C# Output
+   - C# User Input
+2. C# Variables
+3. C# Data Types
+
+### Resources
+1. [C# Output](https://www.w3schools.com/cs/cs_output.php)
+2. [C# User Input](https://www.w3schools.com/cs/cs_user_input.php)
+3. C# Variables
+        - https://www.w3schools.com/cs/cs_variables.php
+        - https://www.tutorialsteacher.com/csharp/csharp-variable
+4. [C# Data Types](https://www.w3schools.com/cs/cs_data_types.php)
+
+
+### Homework
+  1. print the sum of two numbers
+  2. Print the sum of two numbers received from the user.
+  3. Ask the user step by step for his/her first name, last name, father's name and phone number and print it as a single line.
 
 </details>
