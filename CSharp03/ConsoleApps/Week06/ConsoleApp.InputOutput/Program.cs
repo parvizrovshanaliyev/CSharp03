@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            
+
 
             // print the sum of two numbers
             int number1 = 5;
