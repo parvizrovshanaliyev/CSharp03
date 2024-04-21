@@ -184,3 +184,42 @@
   3. Ask the user step by step for his/her first name, last name, father's name and phone number and print it as a single line.
 
 </details>
+
+<details>
+<summary><strong>Week07-Day01 13.04.2024</strong></summary>
+
+## Week07-Day01 13.04.2024
+
+### Topics
+1. Repetition of the past
+
+</details>
+
+<details>
+<summary><strong>Week07-Day02 14.04.2024</strong></summary>
+
+## Week07-Day02 14.04.2024
+
+### Topics
+1. Introduction to Type Casting
+</details>
+
+
+<details>
+<summary><strong>Week08-Day01 20.04.2024</strong></summary>
+
+## Week08-Day01 20.04.2024
+
+### Topics
+1. Repetition of the past
+
+</details>
+
+<details>
+<summary><strong>Week08-Day02 21.04.2024</strong></summary>
+
+## Week08-Day02 21.04.2024
+
+### Topics
+1. Introduction to Type Casting
+</details>
