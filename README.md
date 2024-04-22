@@ -202,8 +202,14 @@
 
 ## Week07-Day02 14.04.2024
 
+## Module 2: Data Types and Variables
+
 ### Topics
-1. Introduction to Type Casting
+2.1 Understanding Data Types in C#
+2.2 Declaring and Initializing Variables
+2.3 Working with Numeric, String, and Boolean Data Types
+2.4 Using Constants and Enumerations
+
 </details>
 
 
@@ -212,8 +218,12 @@
 
 ## Week08-Day01 20.04.2024
 
+## Module 2: Data Types and Variables
+
 ### Topics
-1. Repetition of the past
+2.5 C# Type Casting
+    - Implicit Casting
+    - Explicit Casting
 
 </details>
 
@@ -222,6 +232,78 @@
 
 ## Week08-Day02 21.04.2024
 
+## Module 2: Data Types and Variables
+
 ### Topics
-1. Introduction to Type Casting
+2.5 C# Type Casting
+    - Type Conversion Methods - Convert, Parse, TryParse
+
+### Resources
+1. [C# Type Conversion](https://www.programiz.com/csharp-programming/type-conversion)
+1. [Type Casting in C#](https://dotnettutorials.net/lesson/type-casting-in-csharp/)
+
+### Homework
+
+### Week 08 Quiz
+
+**Module 2: Data Types and Variables**
+
+1. What are the two main types of C# type casting?
+   - A) Implicit and Explicit
+   - B) Dynamic and Static
+   - C) Strong and Weak
+   - D) Constant and Variable
+
+2. When does implicit casting occur in C#?
+   - A) When converting from a larger data type to a smaller data type
+   - B) When converting from a smaller data type to a larger data type
+   - C) When converting between different data types without loss of information
+   - D) When no data type conversion is required
+
+3. Which method is commonly used to perform explicit casting in C#?
+   - A) `ToString()`
+   - B) `Convert.ToInt32()`
+   - C) `Parse()`
+   - D) `TryParse()`
+
+4. What is the purpose of the `Convert`, `Parse`, and `TryParse` methods in C#?
+   - A) To perform implicit casting
+   - B) To perform arithmetic operations
+   - C) To convert between different data types
+   - D) To declare and initialize variables
+
+5. Which of the following is NOT a type of C# type casting?
+   - A) Implicit Casting
+   - B) Explicit Casting
+   - C) Dynamic Casting
+   - D) Static Casting
+
+### Code Exercise: Temperature Conversion
+
+**Objective:**
+Write a C# program that converts temperature from Fahrenheit to Celsius using both implicit and explicit type casting.
+
+**Scenario:**
+You are developing a weather monitoring application that needs to convert temperature readings from Fahrenheit to Celsius for analysis. The temperature readings are received as `double` values in Fahrenheit.
+
+**Instructions:**
+1. Declare a variable `fahrenheitTemp` of type `double` and initialize it with a temperature value in Fahrenheit.
+2. Declare another variable `celsiusTemp` of type `double`.
+3. Perform an implicit type cast from `double` (Fahrenheit) to `int` (Celsius) and store the result in `celsiusTemp`.
+4. Print a message indicating the original temperature in Fahrenheit and the converted temperature in Celsius, using the implicit type cast.
+5. Repeat the process, but this time perform an explicit type cast and print the results.
+6. Ensure that the program handles fractional temperatures accurately.
+
+**Example Output:**
+```
+Original temperature in Fahrenheit: 98.6°F
+Implicitly converted temperature in Celsius: 37°C
+
+Original temperature in Fahrenheit: 75.5°F
+Explicitly converted temperature in Celsius: 24°C
+```
+
+**Your Task:**
+Write a C# program that fulfills the above requirements. You can use the console application template in Visual Studio or any C# compiler of your choice.
+
 </details>
