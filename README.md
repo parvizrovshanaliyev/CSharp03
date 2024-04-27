@@ -307,3 +307,57 @@ Explicitly converted temperature in Celsius: 24°C
 Write a C# program that fulfills the above requirements. You can use the console application template in Visual Studio or any C# compiler of your choice.
 
 </details>
+
+
+
+<details>
+<summary><strong>Week08-Day02 21.04.2024</strong></summary>
+
+## Week09-Day01 27.04.2024
+
+## Module 2: Data Types and Variables
+
+### Topics
+2.5 C# Type Casting
+    - Type Conversion Methods - Convert, Parse, TryParse
+
+### Resources
+1. [C# Type Conversion](https://www.programiz.com/csharp-programming/type-conversion)
+1. [Type Casting in C#](https://dotnettutorials.net/lesson/type-casting-in-csharp/)
+
+### Homework
+
+### Week 09
+
+### Code Exercise: Currency Conversion
+
+**Objective:**
+Write a C# program that converts an amount in one currency to another currency using both implicit and explicit type casting.
+
+**Scenario:**
+You are developing a financial application that needs to convert currency amounts from one currency to another for international transactions. The currency exchange rates are provided as `double` values.
+
+**Instructions:**
+1. Declare a variable `amountInUSD` of type `double` and initialize it with an amount in US dollars.
+2. Declare another variable `exchangeRate` of type `double` and initialize it with the exchange rate from US dollars to another currency (e.g., Euro).
+3. Declare a variable `amountInEuro` of type `double`.
+4. Perform an implicit type cast from `double` (US dollars) to `int` (Euro) and store the result in `amountInEuro`.
+5. Print a message indicating the original amount in US dollars and the converted amount in Euro, using the implicit type cast.
+6. Repeat the process, but this time perform an explicit type cast and print the results.
+7. Ensure that the program handles fractional amounts accurately.
+
+**Example Output:**
+
+```
+Original amount in US dollars: $100.50
+Implicitly converted amount in Euro: €88
+
+Original amount in US dollars: $100.50
+Explicitly converted amount in Euro: €88.16
+```
+
+**Your Task:**
+Write a C# program that fulfills the above requirements.
+You can use the console application template in Visual Studio or any C# compiler of your choice.
+
+</details>
