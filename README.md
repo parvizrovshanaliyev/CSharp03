@@ -308,26 +308,55 @@ Write a C# program that fulfills the above requirements. You can use the console
 
 </details>
 
-
-
 <details>
-<summary><strong>Week08-Day02 21.04.2024</strong></summary>
+<summary><strong>Week09-Day01 27.04.2024</strong></summary>
 
 ## Week09-Day01 27.04.2024
 
 ## Module 2: Data Types and Variables
 
 ### Topics
-2.5 C# Type Casting
-    - Type Conversion Methods - Convert, Parse, TryParse
+2.5 C# Type Casting - Code Exercises
+    
 
 ### Resources
 1. [C# Type Conversion](https://www.programiz.com/csharp-programming/type-conversion)
 1. [Type Casting in C#](https://dotnettutorials.net/lesson/type-casting-in-csharp/)
+</details>
+
+<details>
+<summary><strong>Week09-Day02 28.04.2024</strong></summary>
+
+## Week09-Day02 28.04.2024
+
+## Module 2: Data Types, Variables, and Type Casting
+
+### Topics
+
+##### 2.1 Understanding C# Data Types
+- 2.1.1 Value Data Types - Primitive Data Types 
+        - Predefined Data Types - Char, Integer, Float, Boolean, etc.
+        - User-defined Data Types - such as Enumerations, Structure, etc.
+- 2.1.2 Reference Data Types
+- 2.1.3 Stack and Heap Memory Allocation
+
+##### 2.2 Variable Declaration and Initialization
+- 2.2.1 Syntax for Declaring Variables
+- 2.2.2 Initializing Variables
+
+##### 2.3 Handling Numeric, String, and Boolean Data
+- 2.3.1 Numeric Data Types and Operations
+- 2.3.2 String Manipulation and Operations
+- 2.3.3 Boolean Data and Logical Operations
+
+
+### Resources
+1. [C# Variables and (Primitive) Data Types](https://www.programiz.com/csharp-programming/variables-primitive-data-types)
+2. [Data Types](https://essentialcsharp.com/data-types#overview)
+3. [Data Types - String](https://essentialcsharp.com/strings#strings)
+4. [Stack and Heap Memory in .NET](https://dotnettutorials.net/lesson/stack-and-heap-dotnet/#:~:text=The%20memory%20allocation%20on%20the,allocated%20by%20the%20garbage%20collector.)
 
 ### Homework
-
-### Week 09
 
 ### Code Exercise: Currency Conversion
 
@@ -335,7 +364,8 @@ Write a C# program that fulfills the above requirements. You can use the console
 Write a C# program that converts an amount in one currency to another currency using both implicit and explicit type casting.
 
 **Scenario:**
-You are developing a financial application that needs to convert currency amounts from one currency to another for international transactions. The currency exchange rates are provided as `double` values.
+You are developing a financial application that needs to convert currency amounts from one currency to another for international transactions.
+The currency exchange rates are provided as `double` values.
 
 **Instructions:**
 1. Declare a variable `amountInUSD` of type `double` and initialize it with an amount in US dollars.
@@ -347,7 +377,6 @@ You are developing a financial application that needs to convert currency amount
 7. Ensure that the program handles fractional amounts accurately.
 
 **Example Output:**
-
 ```
 Original amount in US dollars: $100.50
 Implicitly converted amount in Euro: €88
@@ -357,7 +386,6 @@ Explicitly converted amount in Euro: €88.16
 ```
 
 **Your Task:**
-Write a C# program that fulfills the above requirements.
-You can use the console application template in Visual Studio or any C# compiler of your choice.
+Write a C# program that fulfills the above requirements. You can use the console application template in Visual Studio or any C# compiler of your choice.
 
 </details>
