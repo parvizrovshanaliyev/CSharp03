@@ -358,6 +358,60 @@ Write a C# program that fulfills the above requirements. You can use the console
 
 ### Homework
 
+### Quiz
+
+1. What are the two main categories of data types in C#?
+   - a) Value and Reference
+   - b) Primitive and Non-primitive
+   - c) Integer and Float
+   - d) Stack and Heap
+
+2. Which of the following is a value data type in C#?
+   - a) Array
+   - b) String
+   - c) Integer
+   - d) List
+
+3. Which memory is used for storing value data types in C#?
+   - a) Heap
+   - b) Stack
+   - c) Queue
+   - d) Array
+
+4. What is the syntax for declaring variables in C#?
+   - a) var variableName;
+   - b) type variableName;
+   - c) variableName = value;
+   - d) type variableName = value;
+
+5. Which of the following is NOT a valid way to initialize a variable in C#?
+   - a) int x = 10;
+   - b) int x;
+     x = 10;
+   - c) int x;
+     x = new int();
+   - d) int x;
+     x = int.Parse("10");
+
+6. What data type would you use to store text in C#?
+   - a) Char
+   - b) Float
+   - c) Integer
+   - d) String
+
+7. Which operator is used for string concatenation in C#?
+   - a) +
+   - b) -
+   - c) *
+   - d) /
+
+8. In C#, what is the default value for a boolean variable if not explicitly initialized?
+   - a) true
+   - b) false
+   - c) 0
+   - d) 1
+
+
 ### Code Exercise: Currency Conversion
 
 **Objective:**
