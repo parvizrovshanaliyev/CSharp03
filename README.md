@@ -453,8 +453,4 @@ Implicitly converted amount in Euro: €88
 Original amount in US dollars: $100.50
 Explicitly converted amount in Euro: €88.16
 ```
-
-**Your Task:**
-Write a C# program that fulfills the above requirements. You can use the console application template in Visual Studio or any C# compiler of your choice.
-
 </details>
