@@ -349,6 +349,21 @@ Write a C# program that fulfills the above requirements. You can use the console
 - 2.3.2 String Manipulation and Operations
 - 2.3.3 Boolean Data and Logical Operations
 
+##### 2.4 Application of Constants and Enumerations
+- 2.4.1 Defining Constants
+- 2.4.2 Enumerations and Their Usage
+
+##### 2.5 Type Casting
+- 2.5.1 Implicit Casting
+   - 2.5.1.1 Converting Smaller Data Types to Larger Data Types
+   - 2.5.1.2 Automatic Type Conversion
+- 2.5.2 Explicit Casting
+   - 2.5.2.1 Converting Larger Data Types to Smaller Data Types
+   - 2.5.2.2 Manual Type Conversion
+- 2.5.3 Using Convert Class
+   - 2.5.3.1 Using Convert Class for Type Conversion
+   - 2.5.3.2 Handling Conversion Errors
+
 
 ### Resources
 1. [C# Variables and (Primitive) Data Types](https://www.programiz.com/csharp-programming/variables-primitive-data-types)
