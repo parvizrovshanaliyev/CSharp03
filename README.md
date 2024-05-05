@@ -399,14 +399,11 @@ Write a C# program that fulfills the above requirements. You can use the console
    - c) variableName = value;
    - d) type variableName = value;
 
-5. Which of the following is NOT a valid way to initialize a variable in C#?
+5. Which of the following is NOT a valid way to initialize a variable in C#? -> C
    - a) int x = 10;
-   - b) int x;
-     x = 10;
-   - c) int x;
-     x = new int();
-   - d) int x;
-     x = int.Parse("10");
+   - b) int x;x = 10;
+   - c) int x; x = new int();
+   - d) int x; x = int.Parse("10");
 
 6. What data type would you use to store text in C#?
    - a) Char

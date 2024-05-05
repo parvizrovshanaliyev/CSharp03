@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Integral Types
+            // Integral Types -> default 0
             int myInt = 42;
             long myLong = 1234567890123456789L;
             short myShort = 32000;
@@ -17,14 +17,16 @@
             // Decimal Type
             decimal myDecimal = 123.456m;
 
-            // Boolean Type
+            // Boolean Type -> default false
             bool isTrue = true;
 
             // Character Type
             char myChar = 'A';
 
-            // String Type
+            // String Type --> Reference Type  default value -> null
             string myString = "Hello, world!";
+
+            string myString2;
 
             // Object Type
             object myObject = 42;

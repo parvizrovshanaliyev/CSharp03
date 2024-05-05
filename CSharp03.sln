@@ -19,19 +19,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week06", "Week06", "{50867E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.InputOutput", "src\ConsoleApps\Week06\ConsoleApp.InputOutput\ConsoleApp.InputOutput.csproj", "{488D197F-4C2F-4F6D-BB1C-5C9CB3E0BFB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week08.Homework", "src\ConsoleApps\Week08\Week08.Homework\Week08.Homework.csproj", "{0DE05C80-CD3F-4669-B18E-BD6031DC2599}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week08.Homework", "src\ConsoleApps\Week08\Week08.Homework\Week08.Homework.csproj", "{0DE05C80-CD3F-4669-B18E-BD6031DC2599}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{8975DA8D-1D05-412B-BDAA-B557158A421C}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
-		syllabus.md = syllabus.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week09", "Week09", "{0CFE4D60-4011-4C0C-AD8F-67401300AE08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes02", "src\ConsoleApps\Week09\DataTypes02\DataTypes02.csproj", "{6486C4CD-AFDE-421F-BCD3-DE04FCD94CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes02", "src\ConsoleApps\Week09\DataTypes02\DataTypes02.csproj", "{6486C4CD-AFDE-421F-BCD3-DE04FCD94CC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes03.StringExamples", "src\ConsoleApps\Week09\DataTypes03.StringExamples\DataTypes03.StringExamples.csproj", "{D9BF06EC-51B0-4C3F-B375-306450978EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes03.StringExamples", "src\ConsoleApps\Week09\DataTypes03.StringExamples\DataTypes03.StringExamples.csproj", "{D9BF06EC-51B0-4C3F-B375-306450978EFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week09.HomeWork.CurrencyConversion", "src\ConsoleApps\Week09\Week09.HomeWork.CurrencyConversion\Week09.HomeWork.CurrencyConversion.csproj", "{FF8F7558-7B26-4F66-AC30-6BA70F266CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10.Operators", "src\ConsoleApps\Week10\Week10.Operators\Week10.Operators.csproj", "{CC1115E1-140D-49CA-87A8-DD4F253CF3D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week10", "Week10", "{27F21D2B-EF2B-4A91-9413-2BD51D4AE761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10.Math", "src\ConsoleApps\Week10\Week10.Math\Week10.Math.csproj", "{D8D02B05-3E86-47FD-9ABD-75AF21E6C8F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +70,18 @@ Global
 		{D9BF06EC-51B0-4C3F-B375-306450978EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9BF06EC-51B0-4C3F-B375-306450978EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9BF06EC-51B0-4C3F-B375-306450978EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8F7558-7B26-4F66-AC30-6BA70F266CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8F7558-7B26-4F66-AC30-6BA70F266CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8F7558-7B26-4F66-AC30-6BA70F266CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8F7558-7B26-4F66-AC30-6BA70F266CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1115E1-140D-49CA-87A8-DD4F253CF3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1115E1-140D-49CA-87A8-DD4F253CF3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1115E1-140D-49CA-87A8-DD4F253CF3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1115E1-140D-49CA-87A8-DD4F253CF3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D02B05-3E86-47FD-9ABD-75AF21E6C8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D02B05-3E86-47FD-9ABD-75AF21E6C8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D02B05-3E86-47FD-9ABD-75AF21E6C8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D02B05-3E86-47FD-9ABD-75AF21E6C8F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +98,10 @@ Global
 		{0CFE4D60-4011-4C0C-AD8F-67401300AE08} = {26A4D67D-9B76-4346-9B5D-FDEBBD005368}
 		{6486C4CD-AFDE-421F-BCD3-DE04FCD94CC5} = {0CFE4D60-4011-4C0C-AD8F-67401300AE08}
 		{D9BF06EC-51B0-4C3F-B375-306450978EFE} = {0CFE4D60-4011-4C0C-AD8F-67401300AE08}
+		{FF8F7558-7B26-4F66-AC30-6BA70F266CAC} = {0CFE4D60-4011-4C0C-AD8F-67401300AE08}
+		{CC1115E1-140D-49CA-87A8-DD4F253CF3D0} = {26A4D67D-9B76-4346-9B5D-FDEBBD005368}
+		{27F21D2B-EF2B-4A91-9413-2BD51D4AE761} = {26A4D67D-9B76-4346-9B5D-FDEBBD005368}
+		{D8D02B05-3E86-47FD-9ABD-75AF21E6C8F6} = {27F21D2B-EF2B-4A91-9413-2BD51D4AE761}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A53E5756-1646-4ADB-BE1A-86A9C684E690}
