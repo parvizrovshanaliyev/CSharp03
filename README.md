@@ -451,3 +451,296 @@ Original amount in US dollars: $100.50
 Explicitly converted amount in Euro: €88.16
 ```
 </details>
+
+<details>
+<summary><strong>Week10-Day01 04.05.2024</strong></summary>
+
+## Week10-Day01 04.05.2024
+
+## -----------------------
+
+</details>
+
+<details>
+<summary><strong>Week10-Day02 05.05.2024</strong></summary>
+
+## Week10-Day02 05.05.2024
+
+## Module 3: More with Data Types , Operators , Math, String Operations
+
+### Topics
+
+##### 3.1 More with Data Types
+          - Value Types
+          - Reference Types
+##### 3.2 Operators
+          - Arithmetic Operators
+          - Assignment Operators
+          - Logical Operators
+          - Comparison Operators
+
+##### 3.3 Math Operations
+		  - Math.Max
+		  - Math.Min
+		  - Math.Sqrt
+		  - Math.Abs
+		  - Math.Round
+
+##### 3.4 String Operations
+		  - String Concatenation
+		  - String Interpolation
+		  - String Methods
+
+### Resources
+1. [More with Data Types](https://essentialcsharp.com/more-with-data-types#overview)
+2. [Operators](https://www.w3schools.com/cs/cs_operators.php)
+3. [Math Operations](https://www.w3schools.com/cs/cs_math.php)
+4. [String Operations](https://www.w3schools.com/cs/cs_strings.php)
+
+### Homework
+
+### Quiz :
+
+1. What are the two main categories of data types in C#?
+   - A) Value Types and Reference Types
+   - B) Primitive Types and Derived Types
+   - C) Integer Types and Floating-Point Types
+   - D) String Types and Array Types
+
+2. Which of the following is an example of a reference type in C#?
+   - A) int
+   - B) double
+   - C) string
+   - D) object
+
+3. What is the result of the following expression in C#: `10 / 3`?
+   - A) 3.3333
+   - B) 3
+   - C) 3.0
+   - D) 4
+
+4. Which operator is used for checking equality in C#?
+   - A) ==
+   - B) =
+   - C) !=
+   - D) ===
+
+5. Which Math method can be used to find the square root of a number in C#?
+   - A) Math.Pow
+   - B) Math.Sqrt
+   - C) Math.Abs
+   - D) Math.Round
+
+6. What does the following expression evaluate to in C#: `"hello" + "world"`?
+   - A) "helloworld"
+   - B) "hello world"
+   - C) "hello+world"
+   - D) Error
+
+7. Which of the following is NOT a string method in C#?
+   - A) ToUpper()
+   - B) Substring()
+   - C) Split()
+   - D) TrimLeft()
+
+8. Which operator is used for logical AND in C#?
+   - A) &&
+   - B) ||
+   - C) !
+   - D) &
+
+9. What does the Math.Round() method do in C#?
+   - A) Returns the nearest integer that is greater than or equal to the specified double-precision floating-point number
+   - B) Returns the absolute value of a specified number
+   - C) Returns the largest of two numbers
+   - D) Rounds a decimal value to the nearest integer
+
+10. Which of the following is NOT a comparison operator in C#?
+    - A) ==
+    - B) !=
+    - C) <=
+    - D) :=
+
+11. What is the result of the following expression in C#: `5 * (3 + 2)`?
+    - A) 15
+    - B) 25
+    - C) 10
+    - D) 5
+
+12. Which assignment operator is used to add and assign in C#?
+    - A) +=
+    - B) -=
+    - C) *=
+    - D) /=
+
+13. What is the result of the following expression in C#: `Math.Abs(-7)`?
+    - A) -7
+    - B) 7
+    - C) 0
+    - D) Error
+
+14. Which string method is used to find the position of a specified value within a string in C#?
+    - A) IndexOf()
+    - B) Contains()
+    - C) Replace()
+    - D) Concat()
+
+15. What is the output of the following code snippet in C#?
+    ```csharp
+    string word = "hello";
+    int length = word.Length;
+    Console.WriteLine($"The length of the word \"{word}\" is {length}");
+    ```
+    - A) The length of the word "hello" is 6
+    - B) The length of the word "hello" is 5
+    - C) The length of the word "hello" is 4
+    - D) Error
+
+
+
+### Code Exercise: 
+
+### 3.1 More with Data Types
+
+#### Value Types
+- **Instructions:** Declare and initialize variables of various value types such as int, double, char, and bool.
+-   Print out their values to the console.
+  
+- **Expected Output:**
+  ```
+  int age = 25;
+  double height = 5.11;
+  char grade = 'A';
+  bool isStudent = true;
+  ```
+
+### 3.2 Operators
+
+#### Arithmetic Operators
+- **Instructions:** Take two numbers as input from the user and perform addition, subtraction, multiplication, and division operations on them. Print out the results.
+  
+- **Expected Output:**
+  ```
+  Enter the first number: 10
+  Enter the second number: 5
+  Sum: 15
+  Difference: 5
+  Product: 50
+  Quotient: 2
+  ```
+
+#### Assignment Operators
+- **Instructions:** Increment a variable using both pre-increment and post-increment operators. Print out the results.
+  
+- **Expected Output:**
+  ```
+  Initial value: 5
+  Pre-incremented value: 6
+  Post-incremented value: 6
+  ```
+
+#### Logical Operators
+- **Instructions:** Check whether a given number is within the range of 10 and 20 using logical operators.
+  
+- **Expected Output:**
+  ```
+  Enter a number: 15
+  Is the number within the range of 10 and 20? true
+  ```
+
+#### Comparison Operators
+- **Instructions:** Compare two strings and print out whether they are equal or not.
+  
+- **Expected Output:**
+  ```
+  Enter the first string: hello
+  Enter the second string: Hello
+  Are the strings equal? False
+  ```
+
+### 3.3 Math Operations
+
+#### Math.Max
+- **Instructions:** Take three numbers as input and find the maximum among them using `Math.Max`.
+  
+- **Expected Output:**
+  ```
+  Enter the first number: 10
+  Enter the second number: 20
+  Enter the third number: 15
+  Maximum: 20
+  ```
+
+#### Math.Min
+- **Instructions:** Take an array of numbers as input and find the minimum among them using `Math.Min`.
+  
+- **Expected Output:**
+  ```
+  Enter the numbers separated by spaces: 5 10 3 8 1
+  Minimum: 1
+  ```
+
+#### Math.Sqrt
+- **Instructions:** Calculate the square root of a given number using `Math.Sqrt`.
+  
+- **Expected Output:**
+  ```
+  Enter a number: 25
+  Square root: 5
+  ```
+
+#### Math.Abs
+- **Instructions:** Take a negative number as input and return its absolute value using `Math.Abs`.
+  
+- **Expected Output:**
+  ```
+  Enter a negative number: -7
+  Absolute value: 7
+  ```
+
+#### Math.Round
+- **Instructions:** Round a decimal number to the nearest integer using `Math.Round`.
+  
+- **Expected Output:**
+  ```
+  Enter a decimal number: 25.7
+  Rounded value: 26
+  ```
+
+### 3.4 String Operations
+
+#### String Concatenation
+- **Instructions:** Concatenate two strings entered by the user and print out the result.
+  
+- **Expected Output:**
+  ```
+  Enter the first string: Hello
+  Enter the second string: World
+  Concatenated string: HelloWorld
+  ```
+
+#### String Interpolation
+- **Instructions:** Take user input for name and age and print out a message using string interpolation.
+  
+- **Expected Output:**
+  ```
+  Enter your name: Alice
+  Enter your age: 30
+  Hello, Alice! You are 30 years old.
+  ```
+
+#### String Methods
+- **Instructions:** Demonstrate the usage of string methods such as 
+- `ToUpper()`, `ToLower()`, `Substring()`, and `IndexOf()` on a given string.
+  
+- **Expected Output:**
+  ```
+  Enter a string: Hello, World!
+  Uppercase: HELLO, WORLD!
+  Lowercase: hello, world!
+  Substring (2, 5): llo,
+  Index of 'W': 7
+  ```
+
+</details>
+
