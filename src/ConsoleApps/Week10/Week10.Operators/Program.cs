@@ -199,6 +199,15 @@
             int userInput2 = 6;
             string resultMessage = (userInput2 % 2 == 0) ? "Even" : "Odd";
             Console.WriteLine(resultMessage); // Output: Even
+
+
+
+            int initialValue = 5;
+            int preIncremented = ++initialValue; // prefix increment: increment first, then assign
+            int postIncremented = initialValue++; // postfix increment: assign first, then increment
+
+            Console.WriteLine($"Initial value: {initialValue}, Pre-incremented value: {preIncremented}, Post-incremented value: {postIncremented}");
+
         }
     }
 

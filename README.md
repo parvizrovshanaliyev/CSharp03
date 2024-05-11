@@ -591,10 +591,10 @@ Explicitly converted amount in Euro: €88.16
     int length = word.Length;
     Console.WriteLine($"The length of the word \"{word}\" is {length}");
     ```
-    - A) The length of the word "hello" is 6
-    - B) The length of the word "hello" is 5
-    - C) The length of the word "hello" is 4
-    - D) Error
+    -   A) The length of the word "hello" is 6
+    -   B) The length of the word "hello" is 5
+    -   C) The length of the word "hello" is 4
+    -   D) Error
 
 
 
